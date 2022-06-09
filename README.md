@@ -59,6 +59,11 @@
 
 23. Sube el repositorio a GitHub (Añade aquí la url) y activa el hosting (GitHub Pages)(Añade aquí la url). Selecciona la carpeta docs como inicio
 
+[Enlace al github](https://github.com/iesgrancapitan-eed/exud4junio2022-andresfp16)
+
+[Enlace al github pages](https://iesgrancapitan-eed.github.io/exud4junio2022-andresfp16/)
+
 ## BitBucket
 
 24. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la url para que al menos yo pueda verla (mlmagarin@iesgrancapitan.org). El mismo repositorio ha de estar en ambos servidores 
+[Enlace al bitbucket](https://bitbucket.org/andresfp16/examenrecuperanciongit/src/main/)
