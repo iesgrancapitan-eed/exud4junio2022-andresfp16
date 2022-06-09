@@ -1,6 +1,16 @@
+/**
+ * <p>
+ * Paquete donde se encuentra la clase Byke y Vehicle
+ */
 package com.ARM.examen.junio;
 
 
+/**
+ * Clase Byke.
+ * 
+ * @author andres
+ *
+ */
 class Byke extends Vehicle { 
 
   /**
