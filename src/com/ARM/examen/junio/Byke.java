@@ -1,7 +1,7 @@
-package com.examen.junio;
+package com.ARM.examen.junio;
 
 
-class Bicycle {  
+class Byke {  
   int speed;
   int gear;
     

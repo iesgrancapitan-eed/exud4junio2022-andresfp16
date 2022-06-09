@@ -24,7 +24,8 @@
 10. En la clase Bicycle haz las refactorizaciones que necesites para que cambie a Bike. Asegúrate de que se cambian también las referencias en comentarios y cadenas.
 
 11. Añade el diálogo de la refactorización con todo debidamente marcado
-
+    ![img](img/1.png)
+    
 12. Realiza un commit con el mensaje apropiado
 
 13. Extrae el interfaz "Vehicle" a partir de la clase "Bike". Incluye todos los métodos menos toString
