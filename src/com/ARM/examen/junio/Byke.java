@@ -1,7 +1,12 @@
 package com.ARM.examen.junio;
 
 
-class Byke extends Vehicle {  
+class Byke extends Vehicle { 
+
+  /**
+   * <p>
+   * Te devuelve la velocidad y la marcha de tu bicicleta
+   */
   @Override
 public String toString() {
 	return "Bicycle [speed=" + speed + ", gear=" + gear + "]";
